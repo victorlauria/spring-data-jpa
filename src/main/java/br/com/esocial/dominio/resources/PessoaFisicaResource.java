@@ -30,7 +30,7 @@ public class PessoaFisicaResource {
 
 	@RequestMapping(method = RequestMethod.GET)
 	public ResponseEntity<List<PessoaFisica>> pesquisarPessoasFisicas() {	
-		List<PessoaFisica> listaPessoasFisicas = pfService.pesquisarPessoasFisicas();//pessoaFisicaDAO.pesquisarPessoasFisicas();
+		List<PessoaFisica> listaPessoasFisicas = pfService.pesquisarPessoasFisicas();
 		return ResponseEntity.ok().body(listaPessoasFisicas);
 	}
 

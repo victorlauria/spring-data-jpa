@@ -1,0 +1,19 @@
+#This file is used by the JNDI FSContext.
+#Fri Nov 05 20:05:58 BRT 2021
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/ClassName=oracle.jdbc.pool.OracleConnectionPoolDataSource
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/4/Type=networkProtocol
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/3/Encoding=String
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/3/Type=driverType
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/FactoryName=oracle.jdbc.pool.OracleDataSourceFactory
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/4/Content=ipc
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/1/Type=userName
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/0/Encoding=String
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/2/Content=lrosahmg
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/4/Encoding=String
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/2/Type=passWord
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/3/Content=thin
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/1/Encoding=String
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/0/Content=jdbc\:oracle\:thin\:@10.32.249.10\:1521/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/0/Type=url
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/2/Encoding=String
+jdbc/bdprev/PDBSPPREVHML.br1.ocm.s7071866.oraclecloudatcustomer.com/DataBaseTXFolhaPagamento/RefAddr/1/Content=ljunior

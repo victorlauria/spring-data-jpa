@@ -1,0 +1,17 @@
+;0(zero)-desligado
+;1(um)-ligado
+
+;Habilita ou desabilita a impressão do log na tela do Weblogic
+[LogScreen]
+SystemOut=0
+
+;Informa a pasta de geração do arquivo log
+[LogPath]
+path=logs
+
+;Habilita ou desabilita a impressão do log no arquivo
+[LogFile]
+Log=1
+Utils=1
+DataBaseTX=1
+ComboBox=1

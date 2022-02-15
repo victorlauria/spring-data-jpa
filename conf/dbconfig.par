@@ -1,0 +1,25 @@
+;-----   Preparado para Projeto Para  -  Produção"
+;
+[Url]
+Driver=oracle.jdbc.driver.OracleDriver
+Path=jdbc:oracle:thin:@192.168.4.70:1521
+Path_Folha=jdbc:oracle:thin:@192.168.4.70:1521
+
+[Jndi]
+Path=file:///
+Path_Folha=file:///
+Lookup=jdbc/dbprevi
+Lookup_Folha=jdbc/dbprevi
+
+[DataBase]
+service=igeprevd
+Service_Folha=igeprevd
+Max_connection=30
+Max_connection_Folha=5
+
+;Senha criptografada usuario parana e usuario folpara(ambiente de homologacao).
+[Login]
+User=1E6ABC0FA3A3
+Pass=2178AC01BFAC4ACCBD0A11
+User_Folha=0864A21EACB04E
+Pass_Folha=0864A21EACB04E
